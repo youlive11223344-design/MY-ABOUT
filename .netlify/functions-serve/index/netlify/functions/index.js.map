@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": ["../../../../Desktop/MY-ABOUT/netlify/functions/index.mjs"],
+  "sourceRoot": "C:/Users/Alisher/AppData/Local/Temp/tmp-4080-0Kwfpgq9H7xM",
+  "sourcesContent": ["export async function handler(event, context) {\r\n\r\nconst data = {\r\nname: \"Ortiqboyev Alisher\",\r\nage: 13,\r\njob: \"Fullstack Developer\",\r\nlocation: \"Jizzax viloyati Zomin tumani\",\r\nphone: \"+998 99 915 63 85\",\r\nemail: \"you.live.11223344@gmail.com\"\r\n}\r\n\r\nreturn {\r\nstatusCode: 200,\r\nbody: JSON.stringify(data)\r\n}\r\n\r\n}"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,eAAsB,QAAQ,OAAO,SAAS;AAE9C,QAAM,OAAO;AAAA,IACb,MAAM;AAAA,IACN,KAAK;AAAA,IACL,KAAK;AAAA,IACL,UAAU;AAAA,IACV,OAAO;AAAA,IACP,OAAO;AAAA,EACP;AAEA,SAAO;AAAA,IACP,YAAY;AAAA,IACZ,MAAM,KAAK,UAAU,IAAI;AAAA,EACzB;AAEA;",
+  "names": []
+}
