@@ -63,6 +63,10 @@ margin:8px 0;
 
 .card{
 padding:25px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
 }
 
 .avatar{
