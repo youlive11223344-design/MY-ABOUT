@@ -22,6 +22,7 @@ flex-direction:row;
 gap:25px;
 width:100%;
 max-width:420px;
+justify-content: space-evenly;
 }
 
 /* card */
